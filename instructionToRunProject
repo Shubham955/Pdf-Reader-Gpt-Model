@@ -1,0 +1,4 @@
+Run command python data_import.py
+this will read all documents in data folder and index them.
+
+Run command python app_cmd.py "your question"
